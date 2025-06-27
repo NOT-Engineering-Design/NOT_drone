@@ -1,4 +1,4 @@
-# NOT<font color="#FF0080">_drone.</font>
+# NOT_drone.
 
 ## Portfolio Development
 ### Stage 0
